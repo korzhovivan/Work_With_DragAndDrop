@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+c:\users\mak\documents\visual studio 2017\Projects\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
